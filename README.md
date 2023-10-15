@@ -29,3 +29,10 @@ Basic knowledge of Python.
 Familiarity with data preprocessing and machine learning concepts.
 A code editor (e.g., VS Code, Jupyter Notebook).
 Python libraries: Pandas, NumPy, Scikit-learn, and Streamlit.
+Key Takeaways:
+
+A functional bankruptcy prediction web app.
+Understanding of machine learning model selection for this use case.
+Streamlit development skills for future projects.
+Insights into financial data preprocessing and feature engineering.
+Join us for this workshop and gain the skills to build a bankruptcy prediction tool that can be used for financial analysis and decision-making. Whether you're a data scientist, investor, or finance enthusiast, this workshop will equip you with a valuable tool for assessing the health of businesses.
