@@ -36,4 +36,8 @@ Key Takeaways:<br>
 A functional bankruptcy prediction web app.<br>
 Understanding of machine learning model selection for this use case.<br>
 Streamlit development skills for future projects.<br>
-Insights into financial data preprocessing and feature engineering.<br>
+Insights into financial data preprocessing and feature engineering.<be>
+
+Streamlight file run code : streamlit run .\streamlit-bankruptcy-prevention.py
+
+
